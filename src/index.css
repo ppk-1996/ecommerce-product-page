@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@base layer {
+  body: {
+    font-size: 16px;
+    font-family: 'Kumbh Sans';
+  }
+}
